@@ -1,0 +1,7 @@
+plugins {
+    id 'spellbook-gradle' version '1.0'
+}
+
+application {
+    mainClass = 'dk.sebsa.Arcana'
+}
